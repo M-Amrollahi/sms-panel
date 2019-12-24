@@ -1,4 +1,8 @@
-﻿using System;
+///				Apache License
+///                         Version 2.0, January 2004
+///			http://www.apache.org/licenses/
+///				By: Mehdi Amrollahi
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO.Ports;
